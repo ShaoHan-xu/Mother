@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/activity_padding_default">
+
+    <ImageView
+        android:id="@+id/iv_newsItem_cover"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_default" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/tv_newsItem_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="test title"
+            android:textColor="@color/text_black_default"
+            android:textSize="@dimen/text_size_default" />
+
+        <TextView
+            android:id="@+id/tv_newsItem_forwardCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@string/strings_forwardCount"
+            android:textColor="@color/text_gray_default"
+            android:textSize="@dimen/text_size_12" />
+    </RelativeLayout>
+
+</LinearLayout>

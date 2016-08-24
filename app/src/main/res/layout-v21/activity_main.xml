@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar_main"
+        layout="@layout/layout_toolbar" />
+
+    <LinearLayout
+        android:id="@+id/ll_bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bottomBar_background"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/rl_bottomBar_tab1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/tv_tab1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="@string/word_main_tab1"
+                android:textSize="@dimen/text_size_12" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/tv_tab1"
+                android:layout_centerHorizontal="true"
+                android:src="@mipmap/ic_launcher" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_bottomBar_tab2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/tv_tab2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="@string/word_main_tab2"
+                android:textSize="@dimen/text_size_12" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/tv_tab2"
+                android:layout_centerHorizontal="true"
+                android:src="@mipmap/ic_launcher" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_bottomBar_tab3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/tv_tab3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="@string/word_main_tab3"
+                android:textSize="@dimen/text_size_12" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/tv_tab3"
+                android:layout_centerHorizontal="true"
+                android:src="@mipmap/ic_launcher" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_bottomBar_tab4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/tv_tab4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="@string/word_main_tab4"
+                android:textSize="@dimen/text_size_12" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/tv_tab4"
+                android:layout_centerHorizontal="true"
+                android:src="@mipmap/ic_launcher" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/divider_bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_above="@id/ll_bottomBar"
+        android:background="@color/divider_gray" />
+
+    <FrameLayout
+        android:id="@+id/main_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/divider_bottomBar"
+        android:layout_below="@id/toolbar_main">
+
+    </FrameLayout>
+
+</RelativeLayout>

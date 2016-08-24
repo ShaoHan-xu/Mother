@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mother</string>
+
+    <!-- 首页相关 -->
+    <string name="word_main_tab1">资讯</string>
+    <string name="word_main_tab2">健康</string>
+    <string name="word_main_tab3">消息</string>
+    <string name="word_main_tab4">我的</string>
+
+    <!-- 资讯相关 -->
+    <string name="strings_forwardCount">%d位妈妈传递爱心</string>
+
+</resources>

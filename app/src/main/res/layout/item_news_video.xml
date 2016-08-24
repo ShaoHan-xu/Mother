@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_padding_default">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <ImageView
+            android:id="@+id/iv_newsItem_videoCover"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg_default" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/btn_playicon_news" />
+
+        <TextView
+            android:id="@+id/tv_newsItem_videoDuration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/bg_halfround_trans"
+            android:padding="5dp"
+            android:text="17:10"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_newsItem_videoTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:maxLines="2"
+        android:text="视频标题"
+        android:textColor="@color/text_black_default"
+        android:textSize="@dimen/text_size_default" />
+
+    <TextView
+        android:id="@+id/tv_newsItem_forwardCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="10dp"
+        android:maxLines="2"
+        android:text="@string/strings_forwardCount"
+        android:textColor="@color/text_gray_default"
+        android:textSize="@dimen/text_size_12" />
+
+</LinearLayout>

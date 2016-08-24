@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\laowo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_bfa645d5b61f55c61e5c84e28c6e226936bb3faf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.github.mrengineer13\snackbar\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="cc35903814b2bf137fa6f1df823ed51cdce74977">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.mrengineer13-snackbar-1.2.0_aad2c7acd763cfe9fd170c5c7f0c975653d519f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="5dae4d5b1053f40ae29016041029377c71bc7f4c">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34471bf23c3f897844e142e3ae3252763eaf2a91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.2.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="0a4207597233f779fc933633711517b53ae84d29">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.traex.rippleeffect-library-1.2.3_3937092b58c0feb1febb3aa99cbe2170e060b89e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_ddaa30ee4ec7e5ab584d6ba2429c235d0e22d107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\laowo\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.46.android\108717c93f7aec31fb86db57cb4ad1e26034c638\fastjson-1.1.46.android.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.1.46.android_068fdcb74b5a77fb6219785375cf77f5522e7c7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_a4626f42412425aa2b43759fe68ab2e94bf20414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.7_bec377e79d3d3b3619059dafc1d5e9a67186ba9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_2dd55de1b308d9096f57866501291277a490c4f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_406740e4f67cb393d2f18acf4fc5c0b0cc7f0824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_2524f10c76eaec486b4abba0a90dd7883371c581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\adt-bundle-windows-x86_64-20140702\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha5\constraint-layout-solver-1.0.0-alpha5.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="73c7b3e257448abfb473f8833b05e7e055cb3fd9">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha5_70e76ba34dc8433deeaaaae0ec8436f0c9295dde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_11c3419475b083ff4e7acd46205630a42322e136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.bm.photoview\library\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="979e34496c318e79926d9132bdf2973397730212">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bm.photoview-library-1.4.0_6fbbd32e10e80e9aae2af400b96abb559e25362d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\laowo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_d1a68962cb0e65ebb91c77a826db478241eac5f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="acc33023966f868dfe3ecb77a3ce5676dc8de92d">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.9.0.1_73e4d9388ff0c628fed99e0825fa38ae1580c490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_23d98f5bcc9cd3469955846d979ba63375f82159\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="5f714de7239f85e1bdfeb2da8a56ef596356d75a">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a0813271b6a3ae7c204c37c9cf5ccd037b8075e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mother\Mother\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha5\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="e9c2f03f5e8a91877d3b6e3d72881680ac0fbc24">
+        <dex dex="D:\Mother\Mother\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha5_83e8a1706cf1af35e03ed5e0914552916a40005e\classes.dex" />
+    </item>
+
+</items>

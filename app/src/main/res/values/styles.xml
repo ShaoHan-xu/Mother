@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- toolbar（actionbar）颜色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- 选择框等颜色 -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- 窗口的背景颜色 -->
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <!-- 允许使用transitions -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- menu弹框在标题栏之下 -->
+        <item name="actionOverflowMenuStyle">@style/MenuStyle</item>
+
+    </style>
+
+    <!-- menu弹框在标题栏之下 -->
+    <style name="MenuStyle" parent="Widget.AppCompat.Light.PopupMenu.Overflow">
+        <item name="android:dropDownVerticalOffset">?attr/actionBarSize</item>
+    </style>
+
+</resources>

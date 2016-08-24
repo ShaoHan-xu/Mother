@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ED1C24</color>
+    <color name="colorPrimaryDark">#CB0A11</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">@android:color/white</color>
+
+    <!-- 背景相关 -->
+    <color name="windowBackground">#F4F5F6</color>
+    <color name="trans_D0">#D0000000</color>
+    <color name="trans_C0">#C0000000</color>
+    <color name="trans_50">#50000000</color>
+    <color name="trans_30">#30000000</color>
+    <color name="trans_5F">#50FFFFFF</color>
+    <color name="trans_DF">#D0FFFFFF</color>
+    <color name="trans_EF">#E0FFFFFF</color>
+    <color name="trans_FF">#F0FFFFFF</color>
+
+    <color name="divider_gray">#E4E4E4</color>
+    <color name="bottomBar_background">#FAFAFA</color>
+
+    <!-- 文字相关 -->
+    <color name="text_black_default">#333333</color>
+    <color name="text_gray_default">#666666</color>
+
+</resources>
